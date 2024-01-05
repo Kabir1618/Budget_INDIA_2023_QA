@@ -11,7 +11,6 @@ from PyPDF2 import PdfReader
 
 ASTRA_DB_APPLICATION_TOKEN = "AstraCS:UPkfqhgxqlGClRZQaoNRZTIP:22e71b1cb4a916d3722697a89237aed24cc6b872b72bad42ee11d8c26133710e"
 ASTRA_DB_ID = "4e301076-f4ed-46a6-af16-1ae99fc5b780"
-OPENAI_API_KEY = "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"
 
 pdfreader = PdfReader("budget_speech.pdf")
 
