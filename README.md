@@ -1,12 +1,7 @@
----
-title: Budget INDIA 2023 QA
-emoji: 🏆
-colorFrom: yellow
-colorTo: pink
-sdk: streamlit
-sdk_version: 1.29.0
-app_file: app.py
-pinned: false
----
+<h1 align="center">Talk to the India Budget 2023 🏆</h1>
 
-App Link -> https://huggingface.co/spaces/Kabirsingla/Budget_INDIA_2023_QA
+
+## Try your hands on 
+Click -> https://huggingface.co/spaces/Kabirsingla/Budget_INDIA_2023_QA
+
+Click on the above link to go to huggingface UI 
